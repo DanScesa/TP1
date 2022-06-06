@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1654541205 source:d:\usuarios\alumno\documentos\tp1\main.cpp
+	<iostream>
+	"tp1.h"
+
+1653938475 d:\usuarios\alumno\documentos\tp1\tp1.h
+	<string.h>
+
+1651521274 source:d:\usuarios\alumno\documentos\tp1\tp1\main.cpp
+	<iostream>
+	"tp1.h"
+
+1651521612 d:\usuarios\alumno\documentos\tp1\tp1\tp1.h
+
+1653936128 source:f:\tp1\tp1\main.cpp
+	<iostream>
+	"tp1.h"
+
+1653937772 f:\tp1\tp1\tp1.h
+	<string.h>
+
+1653936128 source:d:\usuarios\alumno\documentos\tp1\tp1\tp1\main.cpp
+	<iostream>
+	"tp1.h"
+
+1653937772 d:\usuarios\alumno\documentos\tp1\tp1\tp1\tp1.h
+	<string.h>
+
+1653936128 source:d:\usuarios\alumno\documentos\tp1 borrador\main.cpp
+	<iostream>
+	"tp1.h"
+
+1653938475 d:\usuarios\alumno\documentos\tp1 borrador\tp1.h
+	<string.h>
+
